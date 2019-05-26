@@ -1,10 +1,4 @@
-// Name: SHAURYA CHOUDHARY
-// Reg. No.: 18BCE2113
-// Course: DATA STRUCTURES AND ALGORITHM
-// Faculty: PROF. SHALINI L
-
-
-//************************************ IMPELEMENTATION OF HUFFMAN CONDING**********************************
+//************************************ IMPLEMENTATION OF HUFFMAN CONDING**********************************
 //***********************************(LOSSLESS TEXT COMPRESSION ALGORITHM)*********************************
 
 #include <iostream>
