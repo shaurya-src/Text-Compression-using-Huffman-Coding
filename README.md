@@ -1,1 +1,1 @@
-# Text-Compression-using-Huffman-Coding
+# Text Compression using Huffman Coding
